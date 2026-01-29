@@ -2,4 +2,4 @@
 <p>🎓 Graduated in Systems Analysis and Development at <a href="https://www.ung.br/institucional/nacional" target="blank_">UNG</a></p>
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,mysql,vscode,angular,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,angular,typescript,aws)](https://skillicons.dev)
