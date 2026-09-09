@@ -2,7 +2,7 @@
 
 **`Software Engineer at B3`**
 
-<p>🎓 Graduated in Systems Analysis and Development at <a href="https://www.ung.br/institucional/nacional" target="blank_">UNG</a></p>
+Full Stack Developer with 3+ years of experience, specializing in Java, Spring Boot, TypeScript, and Angular. Graduate in Systems Analysis and Development, passionate about backend engineering, software architecture, and continuous learning.
 
 ---
 
