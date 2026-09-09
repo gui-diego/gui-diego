@@ -8,4 +8,4 @@ Full Stack Developer with 3+ years of experience in software development, with h
 
 ### 🧰 Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,angular,typescript,aws&theme=black" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,angular,typescript,aws&theme=light" />
